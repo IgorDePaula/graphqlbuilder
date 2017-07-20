@@ -1,3 +1,7 @@
+
+/**
+ *
+ */
 const removeDireita = obj => obj.replace('}','')
 
 const removeEsquerda = obj => obj.replace('{','')
