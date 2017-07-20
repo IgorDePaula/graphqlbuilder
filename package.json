@@ -1,0 +1,14 @@
+{
+  "name": "graphqlbuilder",
+  "version": "0.0.1",
+  "description": "A builder for GraphQL queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava  --verbose"
+  },
+  "author": "Igor C. de Paula <principe.borodin@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.21.0"
+  }
+}
