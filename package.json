@@ -1,6 +1,6 @@
 {
   "name": "graphqlbuilder",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A builder for GraphQL queries",
   "main": "index.js",
   "scripts": {
