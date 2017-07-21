@@ -10,7 +10,7 @@ Usage
 ---
 
 ```javascript
-import {buidlerType, retornaParametros } from 'graphqlbuilder'
+import {buiderType, retornaParametros } from 'graphqlbuilder'
 
 // build a type
 
