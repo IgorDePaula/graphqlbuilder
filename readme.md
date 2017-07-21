@@ -9,11 +9,9 @@ A tool for build GraphQL queries
 Usage
 ---
 
-```import {buidlerType, retornaParametros } from 'graphqlbuilder'```
+```javascript
+import {buidlerType, retornaParametros } from 'graphqlbuilder'
 
-
-
-```
 // build a type
 
 const book = builderType('book',{isbn:'3747485xxxxxxx'})
